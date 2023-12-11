@@ -1,5 +1,5 @@
 ﻿using System;
-using Tabuleiro;
+using tabuleiro;
 
 namespace xadrex_console
 {
@@ -7,11 +7,7 @@ namespace xadrex_console
     {
         static void Main(string[] args)
         {
-            Posicao p;
-
-            p = new Posicao(3,4);
-
-            Console.WriteLine($"Posiçao {p}");
+            Tabuleiro tabuleiro = new Tabuleiro(8,8);
 
 
             Console.ReadLine();    
