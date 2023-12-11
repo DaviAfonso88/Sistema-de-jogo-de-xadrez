@@ -1,0 +1,7 @@
+C:\temp\projetos\xadrex-console\bin\Debug\xadrex-console.exe.config
+C:\temp\projetos\xadrex-console\bin\Debug\xadrex-console.exe
+C:\temp\projetos\xadrex-console\bin\Debug\xadrex-console.pdb
+C:\temp\projetos\xadrex-console\obj\Debug\xadrex-console.csproj.AssemblyReference.cache
+C:\temp\projetos\xadrex-console\obj\Debug\xadrex-console.csproj.CoreCompileInputs.cache
+C:\temp\projetos\xadrex-console\obj\Debug\xadrex-console.exe
+C:\temp\projetos\xadrex-console\obj\Debug\xadrex-console.pdb
